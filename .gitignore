@@ -10,6 +10,7 @@ target/
 
 # Eclipse / STS / IntelliJ
 *.classpath
+*.factorypath
 *.project
 *.settings/
 .idea/
