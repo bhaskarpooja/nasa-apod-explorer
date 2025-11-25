@@ -1,0 +1,43 @@
+# --------------------------
+# Maven / Java / Spring Boot
+# --------------------------
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse / STS / IntelliJ
+*.classpath
+*.project
+*.settings/
+.idea/
+*.iml
+
+# --------------------------
+# React
+# --------------------------
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --------------------------
+# Environment / API keys
+# --------------------------
+.env
+*.env
+application-local.properties
+application-dev.properties
+*.secret
+
+# --------------------------
+# OS / Misc
+# --------------------------
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
